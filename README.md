@@ -11,6 +11,6 @@ open dino game in chrome and then run the code
     
 ## Demo
 
-![Demo]()
+![Demo](https://github.com/SwatejPatil/Chrome-Dino-Game-Automated/blob/main/demo.gif)
 
   
